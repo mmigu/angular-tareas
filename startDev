@@ -1,0 +1,2 @@
+# only for dev environments! Do not use this on production!!!
+npm run startDev
